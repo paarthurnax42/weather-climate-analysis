@@ -18,8 +18,8 @@
 
 1. Получите API-ключ на https://openweathermap.org/
 2. Загрузите `temperature_data.csv` или используйте предзагруженные данные
-3. Введите ключ и выберите город
+3. Введите ключ в разделе API и выберите город
 
 ## Деплой в Streamlit Cloud
 
-Проект готов к деплою — просто подключите репозиторий в Streamlit Cloud.
+Ссылка на проект: https://weather-climate-analysis-ivanovda.streamlit.app/
